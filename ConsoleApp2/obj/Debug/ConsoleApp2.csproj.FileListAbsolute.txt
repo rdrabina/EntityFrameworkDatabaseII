@@ -1,0 +1,15 @@
+C:\Users\Radzio\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\Radzio\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Radzio\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Radzio\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Radzio\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Radzio\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Radzio\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Radzio\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\EntityFramework.dll
+C:\Users\Radzio\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Radzio\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\EntityFramework.xml
+C:\Users\Radzio\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Radzio\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\Radzio\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.Migrations.Initial.resources
+C:\Users\Radzio\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.GenerateResource.cache
+C:\Users\Radzio\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.CategoryForm.resources
